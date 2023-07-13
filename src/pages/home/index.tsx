@@ -5,7 +5,7 @@ const Home = () => {
 
   return (
     <div>
-      <h1 className="text-blue-600 text-xl font-bold">
+      <h1 className="text-red-300 text-xl font-bold">
         Let's build App from scratch!
       </h1>
       <div className="mt-2">
