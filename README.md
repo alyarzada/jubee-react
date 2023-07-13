@@ -1,4 +1,4 @@
-# [Jubee](https://skateshop.sadmn.com/)
+# [Jubee]
 
 
 > **Warning**
@@ -6,14 +6,15 @@
 
 ## Tech Stack
 
-- [React.js](https://nextjs.org)
-- [Tailwind CSS](https://tailwindcss.com)
-- [Material UI](https://clerk.dev)
-- [Zustand](https://orm.drizzle.team)
-- [Tanstack/React-Query](https://react.email)
-- [React-Hook-From](https://www.contentlayer.dev)
-- [Typescript](https://uploadthing.com)
-- [Zod](https://stripe.com)
+- [React.js](https://react.dev/)
+- [React Router](https://reactrouter.com/en/main)
+- [Typescript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Material UI](https://mui.com/)
+- [Zustand](https://zustand-demo.pmnd.rs/)
+- [Tanstack/React-Query](https://tanstack.com/query/latest/)
+- [React-Hook-From](https://www.react-hook-form.com/)
+- [Zod](https://zod.dev/)
 
 <!-- ## Features to be implemented
 
